@@ -1,0 +1,6 @@
+[submodule "mykb75"]
+	path = mykb75
+	url = git@github.com:maoabc/mykb75.git
+[submodule "tmk_keyboard"]
+	path = tmk_keyboard
+	url = git@github.com:maoabc/tmk_keyboard.git
